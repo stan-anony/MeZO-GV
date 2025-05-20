@@ -1,5 +1,5 @@
 # MeZO-GV
-Anonymous EMNLP submission code
+Anonymous EMNLP2025 submission code
 
 To run our code:
 
